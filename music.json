@@ -158,7 +158,7 @@
             "play": "https://www.youtube.com/watch?v=q0hyYWKXF0Q"
         },
         {
-            "id": "23",
+            "id": 23,
             "name": "Hate You",
             "Author": "Jim Yosef & Riell",
             "covers": "https://drive.google.com/uc?export=view&id=14Tf9fSNtynQT4GliXEILd1D7R_840HGS",
@@ -172,7 +172,7 @@
             "play": "https://www.youtube.com/watch?v=Tfaq4UTH7P0&list=RDBGYivXrC84Q&index=3"
         },
         {
-            "id": "25",
+            "id": 25,
             "name": "Hold On",
             "Author": "Chord Overstreet",
             "covers": "https://drive.google.com/uc?export=view&id=1OleaIeLF0XVglxSs5MxghJepIURmEUL8",
@@ -291,7 +291,7 @@
             "play": "https://www.youtube.com/watch?v=hJqYc62NCKo"
         },
         {
-            "id": "42",
+            "id": 42,
             "name": "Genius",
             "Author": "LSD ft. Sia, Diplo, Labrinth",
             "covers": "https://drive.google.com/uc?export=view&id=1SgCFSIc5_wGoZPicGpUjNmXEP83VYrfq",
